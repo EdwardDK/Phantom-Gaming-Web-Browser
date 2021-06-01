@@ -12,3 +12,8 @@
 
         .custom{ color: white; z-index: 50px; width: 150px;font-family: 'Lato', sans-serif;
             font-family: 'Sigmar One', cursive; padding: 40px; padding-top: 20px;}
+
+            .icon3{color:#42f554; border: #42f56c 2px solid; width: 200px; height: 200px; border-radius: 25%; background-color: #42f554;  z-index: 5; margin-left: 600px; margin-top: -198px;}
+
+            .ram{ color: white; z-index: 50px; width: 150px;font-family: 'Lato', sans-serif;
+                font-family: 'Sigmar One', cursive; padding: 40px; padding-top: 10px;}
