@@ -3,17 +3,29 @@
 .Browser{color: blue;font-family: 'Lato', sans-serif;
     font-family: 'Sigmar One', cursive; text-align: center;}
 
-    .icon1{color: blue; border: #424bf5 2px solid; width: 200px; height: 200px; border-radius: 25%; background-color: blue; margin-left: 200px; z-index: 5;}
+    .icon1{color: blue; border: #424bf5 2px solid; width: 200px; height: 200px; border-radius: 25%; background-color: blue; margin-left: 350px; z-index: 5;}
 
     .link{ color: white; z-index: 50px; width: 150px;font-family: 'Lato', sans-serif;
         font-family: 'Sigmar One', cursive; padding: 40px;}
 
-        .icon2{color: #f54242; border: #f55a42 2px solid; width: 200px; height: 200px; border-radius: 25%; background-color: #f54242;  z-index: 5; margin-left: 300px; margin-top: -190px;}
+        .icon2{color: #f54242; border: #f55a42 2px solid; width: 200px; height: 200px; border-radius: 25%; background-color: #f54242;  z-index: 5; margin-left: 250px; margin-top: -190px;}
 
         .custom{ color: white; z-index: 50px; width: 150px;font-family: 'Lato', sans-serif;
             font-family: 'Sigmar One', cursive; padding: 40px; padding-top: 20px;}
 
-            .icon3{color:#42f554; border: #42f56c 2px solid; width: 200px; height: 200px; border-radius: 25%; background-color: #42f554;  z-index: 5; margin-left: 600px; margin-top: -198px;}
+            .icon3{color:#42f554; border: #42f56c 2px solid; width: 200px; height: 200px; border-radius: 25%; background-color: #42f554;  z-index: 5; margin-left: 550px; margin-top: -198px;}
 
             .ram{ color: white; z-index: 50px; width: 150px;font-family: 'Lato', sans-serif;
                 font-family: 'Sigmar One', cursive; padding: 40px; padding-top: 10px;}
+
+                @media screen and (max-width: 600px) {
+                    p{font-size: 4px;}
+                }
+
+                .icon4{color:#C53ACE; border: #D061D7 2px solid; width: 200px; height: 200px; border-radius: 25%; background-color: #C53ACE;  z-index: 5; margin-top: 50px;}
+
+                .tutorials{color: white; z-index: 50px; width: 150px;font-family: 'Lato', sans-serif;
+                    font-family: 'Sigmar One', cursive; padding: 40px; padding-top: 30px;
+                padding-left: 30px;}
+
+              
