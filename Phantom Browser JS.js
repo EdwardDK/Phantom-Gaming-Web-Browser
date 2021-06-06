@@ -1,0 +1,1 @@
+prompt("When you see the link copy it and paste it into your browser to subscribe to my channel. Then click OK to procceed to the homepage ツ", "https://www.youtube.com/channel/UCi6XORL5GS6mGbQp44CrBuA")
