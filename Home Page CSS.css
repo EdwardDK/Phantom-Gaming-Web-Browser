@@ -40,10 +40,17 @@
                     font-family: 'Sigmar One', cursive; padding: 40px; padding-top: 30px;
                 padding-left: 30px;}
 
-               .studio{color: white; border: blue solid 2px;
+               .studio{color: white; border: white solid 3px;
             padding: 7px; text-decoration: none; border-radius: 25%;
-        background-color: blue; margin-left: 615px; width: 200px;font-family: 'Lato', sans-serif;
+        background-color: #42f554; margin-left: 615px; width: 200px;font-family: 'Lato', sans-serif;
         font-family: 'Sigmar One', cursive;}
 
-        .studio:hover{color: black; background-color: blanchedalmond; }
+        .studio:hover{color: black; background-color: blanchedalmond; border: black solid 3px;}
+
+        .link1{color: white; border: white solid 3px;
+            padding: 7px; text-decoration: none; border-radius: 25%;
+        background-color: #DFEC11; margin-left: 690px; width: 200px;font-family: 'Lato', sans-serif;
+        font-family: 'Sigmar One', cursive;}
+
+        .link1:hover{color: black; background-color: blanchedalmond; border: 3px black solid;}
               
