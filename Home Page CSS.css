@@ -22,22 +22,28 @@
                     p{font-size: 4px;}
                 }
 
-                .icon4{color:#C53ACE; border: #D061D7 2px solid; width: 200px; height: 200px; border-radius: 25%; background-color: #C53ACE;  z-index: 5; margin-top: 50px;}
+                .icon4{color:#C53ACE; border: #D061D7 2px solid; width: 200px; height: 200px; border-radius: 25%; background-color: #C53ACE;  z-index: 5; margin-top: 50px; margin-left: 355px;}
 
                 .tutorials{color: white; z-index: 50px; width: 150px;font-family: 'Lato', sans-serif;
                     font-family: 'Sigmar One', cursive; padding: 40px; padding-top: 30px;
                 padding-left: 30px;}
 
-                .icon5{color:#DFEC11; border: #E8F158 2px solid; width: 200px; height: 200px; border-radius: 25%; background-color: #DFEC11; z-index: 5; margin-top: -204px; margin-left: 270px ;}
+                .icon5{color:#DFEC11; border: #E8F158 2px solid; width: 200px; height: 200px; border-radius: 25%; background-color: #DFEC11; z-index: 5; margin-top: -204px; margin-left: 625px;}
 
                 .community{color: white; z-index: 50px; width: 150px;font-family: 'Lato', sans-serif;
                     font-family: 'Sigmar One', cursive; padding: 40px; padding-top: 30px;
                 padding-left: 30px;}
 
-                .icon6{color:black; border: white 2px solid; width: 200px; height: 200px; border-radius: 25%; background-color: black;  z-index: 5; margin-top: -205px; margin-left: 550px;}
+                .icon6{color:black; border: white 2px solid; width: 200px; height: 200px; border-radius: 25%; background-color: black;  z-index: 5; margin-top: -205px;  margin-left: 900px;}
 
                 .gamers{color: white; z-index: 50px; width: 150px;font-family: 'Lato', sans-serif;
                     font-family: 'Sigmar One', cursive; padding: 40px; padding-top: 30px;
                 padding-left: 30px;}
 
+               .studio{color: white; border: blue solid 2px;
+            padding: 7px; text-decoration: none; border-radius: 25%;
+        background-color: blue; margin-left: 615px; width: 200px;font-family: 'Lato', sans-serif;
+        font-family: 'Sigmar One', cursive;}
+
+        .studio:hover{color: black; background-color: blanchedalmond; }
               
