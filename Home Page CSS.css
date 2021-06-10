@@ -28,13 +28,13 @@
                     font-family: 'Sigmar One', cursive; padding: 40px; padding-top: 30px;
                 padding-left: 30px;}
 
-                .icon5{color:#DFEC11; border: #E8F158 2px solid; width: 200px; height: 200px; border-radius: 25%; background-color: #DFEC11; z-index: 5; margin-top: -204px; margin-left: 625px;}
+                .icon5{color:#DFEC11; border: #E8F158 2px solid; width: 200px; height: 200px; border-radius: 25%; background-color: #DFEC11; z-index: 5; margin-top: -220px; margin-left: 625px;}
 
                 .community{color: white; z-index: 50px; width: 150px;font-family: 'Lato', sans-serif;
                     font-family: 'Sigmar One', cursive; padding: 40px; padding-top: 30px;
                 padding-left: 30px;}
 
-                .icon6{color:black; border: white 2px solid; width: 200px; height: 200px; border-radius: 25%; background-color: black;  z-index: 5; margin-top: -205px;  margin-left: 900px;}
+                .icon6{color:black; border: white 2px solid; width: 200px; height: 200px; border-radius: 25%; background-color: black;  z-index: 5; margin-top: -226px;  margin-left: 900px;}
 
                 .gamers{color: white; z-index: 50px; width: 150px;font-family: 'Lato', sans-serif;
                     font-family: 'Sigmar One', cursive; padding: 40px; padding-top: 30px;
@@ -53,4 +53,13 @@
         font-family: 'Sigmar One', cursive;}
 
         .link1:hover{color: black; background-color: blanchedalmond; border: 3px black solid;}
+
+        .link2{color: white; border: white solid 3px;
+            padding: 7px; text-decoration: none; border-radius: 25%;
+        background-color: #C53ACE; margin-left: 385px; width: 200px;font-family: 'Lato', sans-serif;
+        font-family: 'Sigmar One', cursive;}
+
+        .link2:hover{color: black; background-color: blanchedalmond; border: 3px black solid;}
+
+        
               
